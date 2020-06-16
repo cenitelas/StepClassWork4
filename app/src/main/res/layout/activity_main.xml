@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:id="@+id/action_main_button_call"
+        android:text="@string/action_main_button_title_call"
+        android:layout_width="100dp"
+        android:layout_height="45dp"/>
+    <Button
+        android:id="@+id/action_main_button_camera"
+        android:text="@string/action_main_button_title_camera"
+        android:layout_width="100dp"
+        android:layout_height="45dp"/>
+</LinearLayout>
